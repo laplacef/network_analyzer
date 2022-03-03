@@ -1,0 +1,33 @@
+# Contributing
+
+Thank you for your interest in contributing to this project! I welcome contributions from the community.
+
+## Getting Started
+
+To get started, please follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contribution.
+3. Make your changes and test them thoroughly.
+4. Commit your changes with clear and descriptive commit messages.
+5. Push your changes to your forked repository.
+6. Submit a pull request to the main repository.
+
+## Guidelines
+
+Please keep the following guidelines in mind when contributing:
+
+- Follow the coding style and conventions used in the project.
+- Write clear and concise code with appropriate comments.
+- Test your changes thoroughly before submitting a pull request.
+- Provide a detailed description of your changes in the pull request.
+
+## Code of Conduct
+
+Please note that this project follows a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code of conduct.
+
+## Contact
+
+If you have any questions or need further assistance, please contact [maintainer's name] at [maintainer's email].
+
+I appreciate your contributions and look forward to your involvement in the project!
